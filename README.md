@@ -1,18 +1,8 @@
 # PDF Renderer
 
-`Flutter` Plugin to render PDF pages as images on **Web**, **MacOs 10.11+**, **Android 5.0+** and **iOS**.
+`Flutter` Plugin to render PDF pages as images on **Web**, **MacOs 10.11+**, **Android 5.0+**, **iOS** and <font color=red>**Windows**</font>.
 
 **We also support the package for easy display PDF documents [native_pdf_view](https://pub.dev/packages/native_pdf_view)**
-
-## Getting Started
-In your flutter project add the dependency:
-
-[![pub package](https://img.shields.io/pub/v/native_pdf_renderer.svg)](https://pub.dartlang.org/packages/native_pdf_renderer)
-
-```yaml
-dependencies:
-  native_pdf_renderer: any
-```
 
 For web add lines in index.html before importing main.dart.js:
 ```html
